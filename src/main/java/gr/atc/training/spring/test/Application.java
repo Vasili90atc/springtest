@@ -1,4 +1,4 @@
-package com.example.springboot;
+package gr.atc.training.spring.test;
 
 import java.util.Arrays;
 
